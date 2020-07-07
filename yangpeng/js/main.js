@@ -7,7 +7,7 @@
     // Initialize all functions when the document is ready.
 	$(document).ready(function(){
 		initResize();
-		initVideoBg();
+		// initVideoBg();
 		initScroller();
 		initAnimation();
 		initowlCarousel();
